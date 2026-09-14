@@ -15,6 +15,19 @@
       "size_bytes": 136611315,
       "sha256": "63a1f9e44a918fb2289dc0ee4e3262a7657317e9182fc86b915c06da14f8e685",
       "authenticode": "unsigned"
+    },
+    {
+      "id": "wechat-linux-arm64",
+      "name": "微信",
+      "aliases": ["WeChat", "Weixin"],
+      "version": "4.1.1.8",
+      "source_class": "community",
+      "source_page": "https://github.com/danny-y1/windows-app-archive/releases/tag/wechat-linux-arm64-4.1.1.8",
+      "download_url": "https://github.com/danny-y1/windows-app-archive/releases/download/wechat-linux-arm64-4.1.1.8/WeChatLinux_4.1.1.8_arm64.deb",
+      "artifact_kind": "linux_deb",
+      "architecture": "arm64",
+      "size_bytes": 189772256,
+      "sha256": "c3ed1a481247e6a1b166e87a66cccdee898c3ae0b76613b39bb6e9795e50929f"
     }
   ]
 }
